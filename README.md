@@ -9,7 +9,6 @@ Junior Web Developer
 
 * 🌍  I'm based in Dhaka Bangladesh
 * ✉️  You can contact me at [mynulislam183@gmail.com](mailto:mynulislam183@gmail.com)
-* 🚀  I'm currently working on [Social Media Website](http://github.com/MohammedNawazMynulIslam/Social-Media-clientSide)
 * 🧠  I'm learning Next.js, TypeScript
 
 ### Skills
