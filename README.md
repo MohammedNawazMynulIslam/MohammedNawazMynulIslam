@@ -29,4 +29,5 @@ Junior Web Developer
 <a href="http://www.github.com/MohammedNawazMynulIslam"><img src="https://github-readme-stats.vercel.app/api?username=MohammedNawazMynulIslam&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ec4899&icon_color=ec4899&bg_color=000000&hide_border=true&show_icons=true" alt="MohammedNawazMynulIslam's GitHub stats" /></a>
 
 <a href="http://www.github.com/MohammedNawazMynulIslam"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MohammedNawazMynulIslam&stroke=ec4899&background=000000&ring=3382ed&fire=3382ed&currStreakNum=ec4899&currStreakLabel=3382ed&sideNums=ec4899&sideLabels=ec4899&dates=ec4899&hide_border=true" /></a>
+
 <a href="https://app.daily.dev/mynulislam"><img src="https://api.daily.dev/devcards/v2/9EMnxkzwqRc55EWKg8N4x.png?type=default&r=qvp" width="356" alt="Mohammed Nawaz Mynul Islam's Dev Card"/></a>
