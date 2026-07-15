@@ -43,27 +43,27 @@ Frontend Developer with **2+ years** of experience building fast, scalable, and 
 
 ### State Management
 <p align="left">
-  <img src="https://img.shields.io/badge/React_Context_API-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=react&logoColor=white" />
+  <a href="https://reactjs.org/docs/context.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React Context API" /></a>
+  <a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
+  <a href="https://zustand-demo.pmnd.rs/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="Zustand" /></a>
 </p>
 
 ### Optimization
 <p align="left">
-  <img src="https://img.shields.io/badge/API_Caching-000000?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Browser_Caching-0078D4?style=for-the-badge&logo=microsoft-edge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bundle_Optimization-FF6B00?style=for-the-badge&logo=webpack&logoColor=white" />
-  <img src="https://img.shields.io/badge/Image_Optimization-4EA94B?style=for-the-badge&logo=imageoptim&logoColor=white" />
-  <img src="https://img.shields.io/badge/SSR/SSG-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.icons8.com/color/48/000000/caching.png" width="36" height="36" alt="API Caching" />
+  <img src="https://img.icons8.com/color/48/000000/web.png" width="36" height="36" alt="Browser Caching" />
+  <img src="https://img.icons8.com/color/48/000000/webpack.png" width="36" height="36" alt="Bundle Optimization" />
+  <img src="https://img.icons8.com/color/48/000000/image.png" width="36" height="36" alt="Image Optimization" />
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" width="36" height="36" alt="SSR/SSG" /></a>
 </p>
 
 ### Testing & Tools
 <p align="left">
-  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
-  <img src="https://img.shields.io/badge/React_Testing_Library-E33332?style=for-the-badge&logo=testing-library&logoColor=white" />
-  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
+  <a href="https://jestjs.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jest-colored.svg" width="36" height="36" alt="Jest" /></a>
+  <a href="https://testing-library.com/react" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/testing-library-colored.svg" width="36" height="36" alt="React Testing Library" /></a>
+  <a href="https://playwright.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/playwright-colored.svg" width="36" height="36" alt="Playwright" /></a>
+  <a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postman-colored.svg" width="36" height="36" alt="Postman" /></a>
+  <a href="https://swagger.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/swagger-colored.svg" width="36" height="36" alt="Swagger" /></a>
 </p>
 
 ### Backend & Database
