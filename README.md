@@ -148,20 +148,26 @@ Canadian University of Bangladesh (2018–2023)
 
 ## 📊 My GitHub Stats
 
-<p align="center">
-  <a href="http://www.github.com/MohammedNawazMynulIslam">
-    <img src="https://github-readme-stats.vercel.app/api?username=MohammedNawazMynulIslam&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ec4899&icon_color=ec4899&bg_color=000000&hide_border=true&show_icons=true" alt="GitHub Stats" />
-  </a>
-</p>
+## 📊 GitHub & Dev Stats
 
-<p align="center">
-  <a href="http://www.github.com/MohammedNawazMynulIslam">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohammedNawazMynulIslam&stroke=ec4899&background=000000&ring=3382ed&fire=3382ed&currStreakNum=ec4899&currStreakLabel=3382ed&sideNums=ec4899&sideLabels=ec4899&dates=ec4899&hide_border=true" />
+<div align="center">
+  <!-- GitHub Streak Stats -->
+  <a href="https://github.com/MohammedNawazMynulIslam">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohammedNawazMynulIslam&stroke=ec4899&background=0d1117&ring=3382ed&fire=3382ed&currStreakNum=ec4899&currStreakLabel=3382ed&sideNums=ec4899&sideLabels=ec4899&dates=ec4899&hide_border=true" />
   </a>
-</p>
+  
+  <br />
 
-<p align="center">
+  <!-- GitHub Overall Stats -->
+  <a href="https://github.com/MohammedNawazMynulIslam">
+    <img src="https://github-readme-stats.vercel.app/api?username=MohammedNawazMynulIslam&show_icons=true&count_private=true&title_color=3382ed&text_color=ec4899&icon_color=ec4899&bg_color=0d1117&hide_border=true&include_all_commits=true" />
+  </a>
+  
+  <br />
+
+  <!-- Daily.dev Card -->
   <a href="https://app.daily.dev/mynulislam">
-    <img src="https://api.daily.dev/devcards/v2/9EMnxkzwqRc55EWKg8N4x.png?type=default&r=qvp" width="300" alt="Mohammed Nawaz Mynul Islam's Dev Card" />
+    <img src="https://api.daily.dev/devcards/v2/9EMnxkzwqRc55EWKg8N4x.png?type=default&r=qvp" width="320" alt="Daily.dev Card" />
   </a>
-</p>
+  
+</div>
