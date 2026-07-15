@@ -1,4 +1,4 @@
-![logo]([https://github.com/MohammedNawazMynulIslam/MohammedNawazMynulIslam/blob/main/Modern%20Minimal%20Gradient%20Background%20Technology%20Banner.jpg](https://github.com/MohammedNawazMynulIslam/MohammedNawazMynulIslam/blob/main/image_61742383.png?raw=true))
+![logo]((https://github.com/MohammedNawazMynulIslam/MohammedNawazMynulIslam/blob/main/image_61742383.png?raw=true))
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)  
 I'm Mohammed Nawaz Mynul Islam  
