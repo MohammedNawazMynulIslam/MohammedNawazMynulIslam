@@ -15,7 +15,7 @@ I specialize in **React.js, Next.js, and TypeScript**, building fast, scalable, 
 - 🧠 I'm currently exploring **advanced Next.js patterns, microservices, and cloud deployment**  
 - ⚡ Fun fact: I once reduced a login page load time from **20 seconds to under 1 second** — and now I can't stand slow websites in my daily life.
 - 🔗 Check out my **[Portfolio](https://portfolio2-0-three-beta.vercel.app/)**  
-- 📄 View my **[Resume](https://drive.google.com/file/d/1yfntaQ2mnpsDZfF14Yxic8oD4JO4d0RI/view?usp=drive_link)**
+- 📄 View my **[Resume](https://drive.google.com/file/d/1yfntaQ2mnpsDZfF14Yxic8oD4JO4d0RI/view?usp=sharing)**
 
 ---
 
