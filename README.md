@@ -17,12 +17,6 @@ I specialize in **React.js, Next.js, and TypeScript**, building fast, scalable, 
 
 ---
 
-## 👾 Pac-Man Dev Edition
-
-> *I'm eating up bugs, one line of code at a time! 🟡👾*
-
----
-
 ## 💼 Professional Summary
 
 Frontend Developer with **2+ years** of experience building fast, scalable, and responsive web applications using **React.js, Next.js, and TypeScript**. Skilled in frontend architecture, REST API integration, SSR/SSG, performance optimization, and responsive UI development. Experienced in working on enterprise and government digital platforms, improving application performance, handling large datasets, and collaborating in Agile/Scrum teams to deliver maintainable and user-focused solutions.
@@ -32,18 +26,34 @@ Frontend Developer with **2+ years** of experience building fast, scalable, and 
 ## 🛠️ Skills
 
 ### Frontend Development
-- **Frameworks:** React.js, Next.js  
-- **Languages:** JavaScript (ES6+), TypeScript, HTML5  
-- **State Management:** React Context API, Redux, Zustand  
-- **Styling:** CSS3, Tailwind CSS, Bootstrap  
-- **UX/UI:** Responsive Design, Component-Based Architecture
+<p align="left">
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" width="36" height="36" alt="Next.js" /></a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+  <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
+  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
+</p>
+
+### State Management
+- React Context API · Redux · Zustand
 
 ### Optimization
-- API Caching, Browser Caching, Bundle & Image Optimization, SSR/SSG (Next.js)
+- API Caching · Browser Caching · Bundle & Image Optimization · SSR/SSG (Next.js)
 
 ### Testing & Tools
-- **Frontend:** Jest, React Testing Library, Playwright  
-- **Backend:** Postman, Swagger
+- **Frontend:** Jest · React Testing Library · Playwright  
+- **Backend:** Postman · Swagger
+
+### Backend & Database
+<p align="left">
+  <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
+  <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="36" height="36" alt="Express" /></a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
+  <a href="https://www.java.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
+</p>
 
 ---
 
@@ -104,12 +114,6 @@ Canadian University of Bangladesh (2018–2023)
 
 - Bengali (Native)  
 - English (Professional)
-
----
-
-## 🧩 Fun Fact
-
-> 👾 *Fun fact: I treat performance optimization like a Pac-Man game — I love gobbling up inefficiencies, one dot at a time! 🟡*
 
 ---
 
