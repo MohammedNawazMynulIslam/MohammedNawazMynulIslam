@@ -27,6 +27,8 @@ Frontend Developer with **2+ years** of experience building fast, scalable, and 
 
 ## 🛠️ Skills
 
+## 🛠️ Skills
+
 ### Frontend Development
 <p align="left">
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
@@ -40,20 +42,36 @@ Frontend Developer with **2+ years** of experience building fast, scalable, and 
 </p>
 
 ### State Management
-- React Context API · Redux · Zustand
+<p align="left">
+  <img src="https://img.shields.io/badge/React_Context_API-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=react&logoColor=white" />
+</p>
 
 ### Optimization
-- API Caching · Browser Caching · Bundle & Image Optimization · SSR/SSG (Next.js)
+<p align="left">
+  <img src="https://img.shields.io/badge/API_Caching-000000?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Browser_Caching-0078D4?style=for-the-badge&logo=microsoft-edge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bundle_Optimization-FF6B00?style=for-the-badge&logo=webpack&logoColor=white" />
+  <img src="https://img.shields.io/badge/Image_Optimization-4EA94B?style=for-the-badge&logo=imageoptim&logoColor=white" />
+  <img src="https://img.shields.io/badge/SSR/SSG-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+</p>
 
 ### Testing & Tools
-- **Frontend:** Jest · React Testing Library · Playwright  
-- **Backend:** Postman · Swagger
+<p align="left">
+  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Testing_Library-E33332?style=for-the-badge&logo=testing-library&logoColor=white" />
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
+</p>
 
 ### Backend & Database
 <p align="left">
   <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
   <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="36" height="36" alt="Express" /></a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
+  <a href="https://www.java.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
 </p>
 
 ---
