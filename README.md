@@ -89,7 +89,7 @@ Frontend Developer with **2+ years** of experience building fast, scalable, and 
 
 ---
 
-### 📊 BsBR | BBS – Survey Management  
+### 📊 BSBR | BBS – Survey Management  
 - Engineered high-performance frontend interfaces from Figma designs into modular React components, reducing development time by **30%**.  
 - Optimized large-scale data handling (millions of records) using TanStack Query and server-side pagination.  
 - Built secure multi-step forms with React Hook Form and Zod validation, ensuring **100% data integrity**.  
