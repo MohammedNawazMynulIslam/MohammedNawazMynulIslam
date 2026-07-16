@@ -162,7 +162,9 @@ Canadian University of Bangladesh (2018–2023)
 <div align="center">
 
 <a href="https://github.com/MohammedNawazMynulIslam">
-  <img src="https://github-readme-stats.vercel.app/api?username=MohammedNawazMynulIslam&show_icons=true&count_private=true&title_color=3382ed&text_color=ec4899&icon_color=ec4899&bg_color=0d1117&hide_border=true&include_all_commits=true" />
+  <img
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=MohammedNawazMynulIslam&show_icons=true&theme=github_dark&hide_border=true"
+  />
 </a>
 
 </div>
