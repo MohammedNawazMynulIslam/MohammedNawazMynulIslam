@@ -1,5 +1,11 @@
 ![logo](https://github.com/MohammedNawazMynulIslam/MohammedNawazMynulIslam/blob/main/banner.png?raw=true)
-
+<p align="center">
+  <img
+    src="./banner.png"
+    alt="Mohammed Nawaz Mynul Islam"
+    width="100%"
+  />
+</p>
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)  
 I'm Mohammed Nawaz Mynul Islam  
 ==================================================================================================================================================
